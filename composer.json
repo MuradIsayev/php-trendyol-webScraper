@@ -1,0 +1,6 @@
+{
+    "require": {
+        "fabpot/goutte": "^4.0",
+        "phpunit/phpunit": "^10.3"
+    }
+}
